@@ -212,6 +212,7 @@ body {
 /* end app options */
 /* start landing page*/
 .landing-page {
+  background-color: black;
   background-image: url("../imgs/4.webp");
   min-height: 100lvh;
   background-position: center center;
