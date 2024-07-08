@@ -54,7 +54,7 @@ let staticBack;
 function randomBackFunc() {
   if (randomBack) {
     randomBackInterval = setInterval(() => {
-      landingPage.style.backgroundImage = `url("../imgs/${Math.ceil(
+      landingPage.style.backgroundImage = `url("./imgs/${Math.ceil(
         Math.random() * 5
       )}.webp")`;
     }, 4000);
