@@ -861,7 +861,7 @@ section {
   .timeline .timeline-content .left::after {
     /*                     width/2                        */
     border-color: transparent white transparent transparent;
-    left: calc(-20px);
+    left: calc(-19px);
   }
 }
 /* end timeline */
