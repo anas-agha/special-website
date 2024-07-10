@@ -960,6 +960,10 @@ section {
   width: 110%;
   aspect-ratio: 1/1;
 }
+.testimonials .testimonials-boxes .testmonial-box .person .information {
+  flex-grow:1;
+}
+
 .testimonials .testimonials-boxes .testmonial-box .person h3 {
   text-transform: capitalize;
   font-size: 20px;
